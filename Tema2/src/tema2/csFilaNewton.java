@@ -1,7 +1,5 @@
 
 package tema2;
-
-
 public class csFilaNewton {
     
     private int i;
@@ -53,11 +51,9 @@ public class csFilaNewton {
 
     public void setErrorCalculado(double errorCalculado) {
         this.errorCalculado = errorCalculado;
-    }
-    
+    }   
     @Override
     public String toString() {
         return "csFilaNewton{" + "i=" + i + ", xi=" + xi + ", fxi=" + fxi + ", fdxi=" + fdxi + ", raiz=" + raiz + ", errorCalculado=" + errorCalculado + '}';
-    }
-    
+    }   
 }
