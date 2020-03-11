@@ -106,10 +106,10 @@ public class frmPrincipal extends javax.swing.JFrame {
     }//GEN-LAST:event_smnuPuntoFijoActionPerformed
 
     private void smnuSecanteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_smnuSecanteActionPerformed
-        /*dlgSecante secante = new dlgSecante(this, true);
+        dlgSecante secante = new dlgSecante(this, true);
         secante.setLocationRelativeTo(null);
         secante.setTitle("Biseccion");
-        secante.setVisible(true);*/
+        secante.setVisible(true);
     }//GEN-LAST:event_smnuSecanteActionPerformed
 
     private void smnuBiseccionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_smnuBiseccionActionPerformed

@@ -57,7 +57,7 @@ public class csMetodos {
         return lista;
     }
     
-    /*public ArrayList <csFilaSecante> Secante (int iteraciones, double xim, double xi, double errorDeseado){
+    public ArrayList <csFilaSecante> Secante (int iteraciones, double xim, double xi, double errorDeseado){
         ArrayList <csFilaSecante> lista = new ArrayList <csFilaSecante>();
         double errorCalculado = 1, b, fxi = this.funcionNewtonSecante(xi), fxim = this.funcionNewtonSecante(xim), raiz = this.calcularRaizSecante(xi, fxi, xim, fxim);
         int i = 0;
@@ -78,7 +78,7 @@ public class csMetodos {
             System.out.println( fila.toString());
         }
         return lista;
-    }*/
+    }
     
     public ArrayList <csFilaNewton> Newton (int iteraciones, double xi, double errorDeseado){
         ArrayList <csFilaNewton> lista = new ArrayList <csFilaNewton>();
