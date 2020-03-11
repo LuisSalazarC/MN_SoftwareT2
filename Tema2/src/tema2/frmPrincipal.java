@@ -92,17 +92,17 @@ public class frmPrincipal extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void smnuNewtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_smnuNewtonActionPerformed
-        /*dlgNewton newton = new dlgNewton(this, true);
+        dlgNewton newton = new dlgNewton(this, true);
         newton.setLocationRelativeTo(null);
         newton.setTitle("Biseccion");
-        newton.setVisible(true);*/
+        newton.setVisible(true);
     }//GEN-LAST:event_smnuNewtonActionPerformed
 
     private void smnuPuntoFijoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_smnuPuntoFijoActionPerformed
-        /*dlgPuntoFijo puntoFijo = new dlgPuntoFijo(this, true);
+        dlgPuntoFijo puntoFijo = new dlgPuntoFijo(this, true);
         puntoFijo.setLocationRelativeTo(null);
         puntoFijo.setTitle("Biseccion");
-        puntoFijo.setVisible(true);*/
+        puntoFijo.setVisible(true);
     }//GEN-LAST:event_smnuPuntoFijoActionPerformed
 
     private void smnuSecanteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_smnuSecanteActionPerformed
@@ -113,10 +113,10 @@ public class frmPrincipal extends javax.swing.JFrame {
     }//GEN-LAST:event_smnuSecanteActionPerformed
 
     private void smnuBiseccionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_smnuBiseccionActionPerformed
-        /*dlgBiseccion biseccion = new dlgBiseccion(this, true);
+        dlgBiseccion biseccion = new dlgBiseccion(this, true);
         biseccion.setLocationRelativeTo(null);
         biseccion.setTitle("Biseccion");
-        biseccion.setVisible(true);*/
+        biseccion.setVisible(true);
     }//GEN-LAST:event_smnuBiseccionActionPerformed
 
     

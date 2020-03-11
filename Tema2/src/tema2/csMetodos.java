@@ -102,7 +102,7 @@ public class csMetodos {
         }
         return lista;
     }
-    /*
+    
     public ArrayList <csFilaPunto> Punto (int iteraciones, double xi, double errorDeseado){
         ArrayList <csFilaPunto> lista = new ArrayList <csFilaPunto>();
        double errorCalculado = 1, b, x = this.funcionDespejadaPunto(xi);
@@ -124,7 +124,7 @@ public class csMetodos {
         }
         return lista;
     }
-    */
+    
     private double funcionBiseccion(double x){
         return Math.pow(x, 2) - 0.9 * x - 1.52;
     }
