@@ -59,4 +59,5 @@ public class csFilaNewton {
     public String toString() {
         return "csFilaNewton{" + "i=" + i + ", xi=" + xi + ", fxi=" + fxi + ", fdxi=" + fdxi + ", raiz=" + raiz + ", errorCalculado=" + errorCalculado + '}';
     }
+    
 }
